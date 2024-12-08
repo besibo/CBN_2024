@@ -1,0 +1,3 @@
+ce sont des relevés bryovégétation sur de troncs d'arbres (base de tronc ou tronc), avec des espèces qui reçoivent un index de Braun-Blanquet (j'ai mis une table en bas des relevés avec les recouvrements et les classes).
+Il y a plusieurs localités et dans chacune il y a plusieurs arbres qui ont été relevés.
+La cible la plus directe, savoir s'il y a des différences entre ces localités; une deuxième, différences entre les différentes espèces d'arbres.

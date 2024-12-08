@@ -1,0 +1,5 @@
+Voici le tableau où figurent les données que je souhaite utiliser lors de la formation.
+Ce sont des relevés phytosociologiques de parcelles réimplantées (avec des répétitions), des relevés de recouvrement associés (avec répétitions), des compositions de mélanges semés (sans répétitions), et des relevés phytosociologiques des prairies sources de graines (sans répétition).
+
+L'objectif serait de faire une comparaison entre les sites sources/référence et la réimplantation au fil des années, une comparaison avec les mélanges,...
+Je n'ai pas encore trop réfléchi à ce que je peux faire car je ne sais pas trop comment les utiliser.

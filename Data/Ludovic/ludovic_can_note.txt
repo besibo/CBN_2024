@@ -1,0 +1,7 @@
+Si nous sommes en mesures de triturer les données CAN d'Oncet, se focaliser sur 
+- les données de températures:
+
+    - y a t il une évolution significative des données de températures (année, période estivale)
+
+- la richesse spécifique évolue t elle de façon significative (échelle de la station et dans les mailles)
+- évolution des taxons du salicion à la station et dans les mailles 

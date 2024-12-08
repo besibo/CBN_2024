@@ -1,0 +1,10 @@
+Les cultures faunistiques sont-elles favorables aux plantes messicoles ?
+c'est-à-dire 
+- l'itinéraire technique est-il favorable ?
+- y a-t-il une différence d'abondance et de diversité entre les différentes zones des parcelles ?
+- les parcelles / zones sont-elles riches et diversifiées en plantes messicoles ?
+- les parcelles / zones présentent-elles des espèces messicoles à enjeux ?
+- les parcelles / zones présentent-elles des espèces messicoles encore non recensées sur la commune ?
+
+Etude sur 28 parcelles réparties sur 9 communes dans l’Aveyron, le Lot et le Tarn, semées en culture faunistique en  automne 2023.
+Relevé dans 3 zones par parcelle (bordure ; plein champ ; interface quand elle existe) x 4 quadrats par zone, placés aléatoirement dans la zone. Identification de toutes les espèces floristiques présentes dans le quadrat. Pour chaque quadrat il est noté le nombre d'occurrences d'apparition de chaque espèce.

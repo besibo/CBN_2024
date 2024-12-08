@@ -1,0 +1,10 @@
+Contexte: 
+Habitat d'intérêt communautaire 6170 des pelouses calcaires alpines et subalpines spécifique du domaine alpin. 
+Les surfaces couvertes et la répartition pour le territoire d'agrément sont conséquentes.
+Il s'agit de mettre en oeuvre un observatoire de ces pelouses et de fournir des éléments pour évaluer l'état de conservation dans le cadre des rapportages N2000 qui ont lieu tous les 6 ans.
+
+Objectif:
+Affiner la répartition des pelouses crêtes et étudier les dérives trophiques et fermetures de milieux des pelouses mésophiles.
+
+Exercice:
+Travailler la BDD et effectuer une CAH pour constituer des "paquets homogènes" de polygônes ayant les mêmes caractéristiques abiotiques pour affiner la stratégie d’échantillonnage.
