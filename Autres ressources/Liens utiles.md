@@ -7,4 +7,6 @@
 - [Time series tutorial with R and ggplot](https://nicholasrjenkins.science/post/tidy_time_series/tts_r/)
 - [Cours d'analyse de données du master SPE](https://besibo.github.io/DataAnalysis/)
 - [Depôt GitHub de la formation CBN 2024](https://github.com/besibo/CBN_2024)
-
+- [R Graph Gallery](https://r-graph-gallery.com)
+- [La package colorspace](http://colorspace.r-forge.r-project.org/articles/ggplot2_color_scales.html#available-palettes)
+- [Magnitude/Taille de l'effet : le package effectsize](https://cran.r-project.org/web/packages/effectsize/vignettes/effectsize.html)

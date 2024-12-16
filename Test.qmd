@@ -1,0 +1,33 @@
+---
+title: "Test"
+author: "Benoit"
+format: html
+---
+
+# Ceci est un titre de section
+
+## Ceci est un sous-titre
+
+blabla blabl
+
+- premièrement
+- deuxièmement
+
+```{r}
+2 + 3
+```
+```{r}
+#| echo: false
+#| message: false
+#| warning: false
+
+
+library(tidyverse)
+
+mtcars |> 
+  ggplot(aes(x = cyl, y = mpg)) +
+  geom_point() +
+  theme_bw()
+
+```
+
